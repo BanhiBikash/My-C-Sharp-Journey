@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Phase2\Phase2\bin\Debug\Phase2.exe.config
+C:\Users\Banhi\source\repos\Phase2\Phase2\bin\Debug\Phase2.exe
+C:\Users\Banhi\source\repos\Phase2\Phase2\bin\Debug\Phase2.pdb
+C:\Users\Banhi\source\repos\Phase2\Phase2\obj\Debug\Phase2.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Phase2\Phase2\obj\Debug\Phase2.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Phase2\Phase2\obj\Debug\Phase2.exe
+C:\Users\Banhi\source\repos\Phase2\Phase2\obj\Debug\Phase2.pdb

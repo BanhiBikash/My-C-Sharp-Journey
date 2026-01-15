@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Program\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\Users\Banhi\source\repos\Program\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\Users\Banhi\source\repos\Program\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\Users\Banhi\source\repos\Program\ArrayReverse\obj\Debug\ArrayReverse.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Program\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Program\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\Users\Banhi\source\repos\Program\ArrayReverse\obj\Debug\ArrayReverse.pdb

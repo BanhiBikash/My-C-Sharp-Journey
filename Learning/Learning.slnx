@@ -1,0 +1,25 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Phase3/Phase3-Class/bin/Debug/Phase3-Class.exe">
+    <BuildType Project="Release" />
+    <Platform Project="x86" />
+    <Properties Name="DebuggerProjectSystem">
+      <Property Name="AttachLaunchAction" Value="No" />
+      <Property Name="Environment" Value="Default" />
+      <Property Name="Executable" Value="C:\Users\Banhi\source\repos\Phase3\Phase3-Class\bin\Debug\Phase3-Class.exe" />
+      <Property Name="IORedirection" Value="Auto" />
+      <Property Name="LaunchingEngine" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="LaunchSQLEngine" Value="No" />
+      <Property Name="PortSupplier" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="RemoteMachine" Value="DESKTOP-HCV52ID" />
+      <Property Name="StartingDirectory" Value="C:\Users\Banhi\source\repos\Phase3\Phase3-Class\bin\Debug" />
+      <Property Name="UseLegacyDebugEngines" Value="No" />
+    </Properties>
+  </Project>
+  <Project Path="FindAreaInheritance/FindAreaInheritance.csproj" Id="cb787ad2-25d7-4203-af86-b0940955fd3e" />
+  <Project Path="inheritance/inheritance.csproj" Id="cbe39958-f125-4808-94d7-dd815873febc" />
+  <Project Path="InheritancePractice/InheritancePractice.csproj" Id="a917cea7-bc3a-4577-b857-79d4d548be48" />
+</Solution>

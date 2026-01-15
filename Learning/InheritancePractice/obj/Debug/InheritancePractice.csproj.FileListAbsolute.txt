@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\bin\Debug\InheritancePractice.exe.config
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\bin\Debug\InheritancePractice.exe
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\bin\Debug\InheritancePractice.pdb
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\obj\Debug\InheritancePractice.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\obj\Debug\InheritancePractice.exe
+C:\Users\Banhi\source\repos\Learning\InheritancePractice\obj\Debug\InheritancePractice.pdb

@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\bin\Debug\Phase3-Class.exe.config
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\bin\Debug\Phase3-Class.exe
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\bin\Debug\Phase3-Class.pdb
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\obj\Debug\Phase3-Class.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\obj\Debug\Phase3-Class.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\obj\Debug\Phase3-Class.exe
+C:\Users\Banhi\source\repos\Phase3\Phase3-Class\obj\Debug\Phase3-Class.pdb

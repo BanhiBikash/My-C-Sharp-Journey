@@ -1,0 +1,14 @@
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\bin\Debug\net10.0\SecondPro.exe
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\bin\Debug\net10.0\SecondPro.deps.json
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\bin\Debug\net10.0\SecondPro.runtimeconfig.json
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\bin\Debug\net10.0\SecondPro.dll
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\bin\Debug\net10.0\SecondPro.pdb
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.AssemblyInfoInputs.cache
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.AssemblyInfo.cs
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.dll
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\refint\SecondPro.dll
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.pdb
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\SecondPro.genruntimeconfig.cache
+C:\Users\Banhi\source\repos\SecondPro\SecondPro\obj\Debug\net10.0\ref\SecondPro.dll

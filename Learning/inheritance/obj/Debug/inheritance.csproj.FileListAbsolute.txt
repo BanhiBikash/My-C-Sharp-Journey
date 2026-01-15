@@ -1,0 +1,11 @@
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\inheritance.exe
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Banhi\source\repos\Learning\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\inheritance\obj\Debug\inheritance.exe
+C:\Users\Banhi\source\repos\Learning\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\Phase3-Class.exe
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\Phase3-Class.pdb
+C:\Users\Banhi\source\repos\Learning\inheritance\bin\Debug\Phase3-Class.exe.config
+C:\Users\Banhi\source\repos\Learning\inheritance\obj\Debug\inherita.2EE1CFEF.Up2Date

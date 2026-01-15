@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\bin\Debug\FindAreaInheritance.exe.config
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\bin\Debug\FindAreaInheritance.exe
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\bin\Debug\FindAreaInheritance.pdb
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\obj\Debug\FindAreaInheritance.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\obj\Debug\FindAreaInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\obj\Debug\FindAreaInheritance.exe
+C:\Users\Banhi\source\repos\Learning\FindAreaInheritance\obj\Debug\FindAreaInheritance.pdb
