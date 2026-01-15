@@ -1,0 +1,1 @@
+This repository entails my journey of learning c#, the beginning was messy but step by step I improved and now I am confident of being on the right path. I will keep this repo updated as I keep going on with my learning.
