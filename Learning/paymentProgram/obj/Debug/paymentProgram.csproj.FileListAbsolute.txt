@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\paymentProgram\bin\Debug\paymentProgram.exe.config
+C:\Users\Banhi\source\repos\Learning\paymentProgram\bin\Debug\paymentProgram.exe
+C:\Users\Banhi\source\repos\Learning\paymentProgram\bin\Debug\paymentProgram.pdb
+C:\Users\Banhi\source\repos\Learning\paymentProgram\obj\Debug\paymentProgram.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\paymentProgram\obj\Debug\paymentProgram.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\paymentProgram\obj\Debug\paymentProgram.exe
+C:\Users\Banhi\source\repos\Learning\paymentProgram\obj\Debug\paymentProgram.pdb

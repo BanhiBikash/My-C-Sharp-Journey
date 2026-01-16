@@ -22,4 +22,5 @@
   <Project Path="FindAreaInheritance/FindAreaInheritance.csproj" Id="cb787ad2-25d7-4203-af86-b0940955fd3e" />
   <Project Path="inheritance/inheritance.csproj" Id="cbe39958-f125-4808-94d7-dd815873febc" />
   <Project Path="InheritancePractice/InheritancePractice.csproj" Id="a917cea7-bc3a-4577-b857-79d4d548be48" />
+  <Project Path="paymentProgram/paymentProgram.csproj" Id="5c990cf2-966f-42a7-8241-9c9916ef7a3c" />
 </Solution>
