@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Banhi\\source\\repos\\Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|C:\\Users\\Banhi\\source\\repos\\Learning\\paymentprogram\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|solutionrelative:paymentprogram\\debitcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\banhi\\source\\repos\\learning\\extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|c:\\users\\banhi\\source\\repos\\learning\\paymentprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|solutionrelative:paymentprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|C:\\Users\\Banhi\\source\\repos\\Learning\\paymentprogram\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|solutionrelative:paymentprogram\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|C:\\Users\\Banhi\\source\\repos\\Learning\\paymentprogram\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C990CF2-966F-42A7-8241-9C9916EF7A3C}|paymentProgram\\paymentProgram.csproj|solutionrelative:paymentprogram\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\banhi\\source\\repos\\learning\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DebitCard.cs",
-              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\DebitCard.cs",
-              "RelativeDocumentMoniker": "paymentProgram\\DebitCard.cs",
-              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\DebitCard.cs",
-              "RelativeToolTip": "paymentProgram\\DebitCard.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Class1.cs",
+              "RelativeDocumentMoniker": "ExtensionMethod\\Class1.cs",
+              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Class1.cs",
+              "RelativeToolTip": "ExtensionMethod\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:33:24.269Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-01-17T19:14:53.816Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ipayment.cs",
-              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\Ipayment.cs",
-              "RelativeDocumentMoniker": "paymentProgram\\Ipayment.cs",
-              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\Ipayment.cs",
-              "RelativeToolTip": "paymentProgram\\Ipayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:29:24.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreditCard.cs",
-              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\CreditCard.cs",
-              "RelativeDocumentMoniker": "paymentProgram\\CreditCard.cs",
-              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\CreditCard.cs",
-              "RelativeToolTip": "paymentProgram\\CreditCard.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAFcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:36:11.193Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\Program.cs",
-              "RelativeDocumentMoniker": "paymentProgram\\Program.cs",
-              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\paymentProgram\\Program.cs",
-              "RelativeToolTip": "paymentProgram\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Program.cs",
+              "RelativeToolTip": "ExtensionMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T18:28:50.939Z",
+              "WhenOpened": "2026-01-17T19:03:38.098Z",
               "EditorCaption": ""
             }
           ]

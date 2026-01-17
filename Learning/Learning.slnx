@@ -19,6 +19,7 @@
       <Property Name="UseLegacyDebugEngines" Value="No" />
     </Properties>
   </Project>
+  <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="0b8a9a5b-a6fc-458a-93b5-907e4eb10b11" />
   <Project Path="FindAreaInheritance/FindAreaInheritance.csproj" Id="cb787ad2-25d7-4203-af86-b0940955fd3e" />
   <Project Path="inheritance/inheritance.csproj" Id="cbe39958-f125-4808-94d7-dd815873febc" />
   <Project Path="InheritancePractice/InheritancePractice.csproj" Id="a917cea7-bc3a-4577-b857-79d4d548be48" />
