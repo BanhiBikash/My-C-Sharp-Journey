@@ -9,6 +9,16 @@ namespace paymentProgram
     public class DebitCard:IPayment
     {
         float balance;
+
+        //balance property
+        public double Balance
+        {
+            get
+            {
+                return balance;
+            }
+        }
+
         public void ProcessPayment(float pay, float balance=0)
         {
             if(balance!=0)
@@ -42,7 +52,7 @@ namespace paymentProgram
 
         public void ShowBalance()
         {
-            Console.WriteLine("\nYour account balance is "+this.balance+".");
+            Console.WriteLine("\nYour account balance is "+Balance+".");
             Console.ReadLine();
         }
 
