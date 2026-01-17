@@ -23,10 +23,21 @@ namespace ExtensionMethod
     {
         static void Main(string[] args)
         {
+            //using delegate predefined Action
             Program o = new Program();
             Action<int, int> obj = o.add;
+
+            //adding extension to class
             obj += o.mul;
             obj(3, 5);
+
+            //adding extension to struct Int32
+            int i = 5;
+            Console.WriteLine("\n Factorial of {0} is {1}.",i,i.Factorial());
+
+            //adding extension to string sealed class
+            string str = "hI, I aM bAnHi.";
+            Console.WriteLine("\nOriginal sentence is: {0}\nCorrected sentence is: {1}",str,str.ToProper());
         }
     }
 }
