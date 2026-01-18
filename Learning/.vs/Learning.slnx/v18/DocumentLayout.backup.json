@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Banhi\\source\\repos\\Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\banhi\\source\\repos\\learning\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\banhi\\source\\repos\\learning\\extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|C:\\Users\\Banhi\\source\\repos\\Learning\\extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|c:\\users\\banhi\\source\\repos\\learning\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8A9A5B-A6FC-458A-93B5-907E4EB10B11}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Class1.cs",
               "RelativeDocumentMoniker": "ExtensionMethod\\Class1.cs",
               "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Class1.cs",
               "RelativeToolTip": "ExtensionMethod\\Class1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:14:53.816Z",
+              "WhenOpened": "2026-01-18T11:31:10.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Program.cs",
               "RelativeDocumentMoniker": "ExtensionMethod\\Program.cs",
               "ToolTip": "C:\\Users\\Banhi\\source\\repos\\Learning\\ExtensionMethod\\Program.cs",
               "RelativeToolTip": "ExtensionMethod\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCcAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T19:03:38.098Z",
               "EditorCaption": ""
