@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\StudentsList\bin\Debug\StudentsList.exe.config
+C:\Users\Banhi\source\repos\Learning\StudentsList\bin\Debug\StudentsList.exe
+C:\Users\Banhi\source\repos\Learning\StudentsList\bin\Debug\StudentsList.pdb
+C:\Users\Banhi\source\repos\Learning\StudentsList\obj\Debug\StudentsList.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\StudentsList\obj\Debug\StudentsList.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\StudentsList\obj\Debug\StudentsList.exe
+C:\Users\Banhi\source\repos\Learning\StudentsList\obj\Debug\StudentsList.pdb

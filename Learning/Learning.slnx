@@ -29,4 +29,5 @@
   <Project Path="MultiThreading1/MultiThreading1.csproj" Id="d65414fb-03e5-4110-9b55-0ad0fc64ebc3" />
   <Project Path="MultiThreadingDelegates/MultiThreadingDelegates.csproj" Id="51073535-451e-427c-9dae-7b164e17e9b9" />
   <Project Path="paymentProgram/paymentProgram.csproj" Id="5c990cf2-966f-42a7-8241-9c9916ef7a3c" />
+  <Project Path="StudentsList/StudentsList.csproj" Id="fc1cc7e0-b1dd-4806-aebb-d8967306921d" />
 </Solution>
