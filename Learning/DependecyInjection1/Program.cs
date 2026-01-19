@@ -24,6 +24,8 @@ namespace DependecyInjection1
 
     internal class BuildHouse
     {
+        //injecting dependency, through constructor injection
+        //injecting dependency, through constructor injection
         public BuildHouse(Hammer h, Saw s)
         {
             try

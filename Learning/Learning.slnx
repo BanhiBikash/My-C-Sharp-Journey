@@ -20,6 +20,7 @@
     </Properties>
   </Project>
   <Project Path="DependecyInjection1/DependecyInjection1.csproj" Id="cf2b9fa9-5610-4593-9298-e079882340f4" />
+  <Project Path="DepenInjecSetter/DISetterMethod.csproj" Id="928c0346-c3d6-4143-ac58-e118a6a18ec9" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="0b8a9a5b-a6fc-458a-93b5-907e4eb10b11" />
   <Project Path="FindAreaInheritance/FindAreaInheritance.csproj" Id="cb787ad2-25d7-4203-af86-b0940955fd3e" />
   <Project Path="inheritance/inheritance.csproj" Id="cbe39958-f125-4808-94d7-dd815873febc" />
