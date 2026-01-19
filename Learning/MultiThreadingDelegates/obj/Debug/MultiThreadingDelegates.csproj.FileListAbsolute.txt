@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\bin\Debug\MultiThreadingDelegates.exe.config
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\bin\Debug\MultiThreadingDelegates.exe
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\bin\Debug\MultiThreadingDelegates.pdb
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\obj\Debug\MultiThreadingDelegates.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\obj\Debug\MultiThreadingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\obj\Debug\MultiThreadingDelegates.exe
+C:\Users\Banhi\source\repos\Learning\MultiThreadingDelegates\obj\Debug\MultiThreadingDelegates.pdb

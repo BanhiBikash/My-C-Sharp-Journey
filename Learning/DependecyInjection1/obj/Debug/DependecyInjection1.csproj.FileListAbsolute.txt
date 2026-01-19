@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\bin\Debug\DependecyInjection1.exe.config
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\bin\Debug\DependecyInjection1.exe
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\bin\Debug\DependecyInjection1.pdb
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\obj\Debug\DependecyInjection1.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\obj\Debug\DependecyInjection1.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\obj\Debug\DependecyInjection1.exe
+C:\Users\Banhi\source\repos\Learning\DependecyInjection1\obj\Debug\DependecyInjection1.pdb
