@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\bin\Debug\DepenInjecSetter.exe.config
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\bin\Debug\DepenInjecSetter.exe
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\bin\Debug\DepenInjecSetter.pdb
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\obj\Debug\DISetterMethod.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\obj\Debug\DISetterMethod.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\obj\Debug\DepenInjecSetter.exe
+C:\Users\Banhi\source\repos\Learning\DepenInjecSetter\obj\Debug\DepenInjecSetter.pdb

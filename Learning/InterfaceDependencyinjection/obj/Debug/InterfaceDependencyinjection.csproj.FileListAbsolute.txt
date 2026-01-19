@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\bin\Debug\InterfaceDependencyinjection.exe.config
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\bin\Debug\InterfaceDependencyinjection.exe
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\bin\Debug\InterfaceDependencyinjection.pdb
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\obj\Debug\InterfaceDependencyinjection.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\obj\Debug\InterfaceDependencyinjection.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\obj\Debug\InterfaceDependencyinjection.exe
+C:\Users\Banhi\source\repos\Learning\InterfaceDependencyinjection\obj\Debug\InterfaceDependencyinjection.pdb
