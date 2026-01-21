@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Add.cs" />
     <Compile Include="ArrayManipulation.cs" />
+    <Compile Include="Delete.cs" />
     <Compile Include="Operations.cs" />
     <Compile Include="DataClasses1.designer.cs">
       <AutoGen>True</AutoGen>
@@ -59,6 +60,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="Update.cs" />
     <Compile Include="View.cs" />
   </ItemGroup>
   <ItemGroup>

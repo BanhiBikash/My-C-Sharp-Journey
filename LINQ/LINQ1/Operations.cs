@@ -35,21 +35,27 @@ namespace LINQ1
                             View v = new View();
                             v.Control();
                             break;
+
                         case (int)Choices.Add:
                             Add a = new Add();
+
                             a.Control();
                             break;
+
                         case (int)Choices.Update:
-                            //Update u = new Update();
-                            //u.Control();
+                            Update u = new Update();
+                            u.Control();
                             break;
+
                         case (int)Choices.Delete:
-                            //Delete d = new Delete();
-                            //d.Control();
+                            Delete d = new Delete();
+                            d.Control();
                             break;
+
                         case (int)Choices.Exit:
                             looping = false;
                             break;
+
                         default:
                             Console.WriteLine("\nInvalid Input. Please enter a number between 1 and 5.");
                             break;
