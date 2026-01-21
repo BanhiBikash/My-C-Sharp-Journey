@@ -1,0 +1,9 @@
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\bin\Debug\IntoductionLINQ.exe.config
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\bin\Debug\IntoductionLINQ.exe
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\bin\Debug\IntoductionLINQ.pdb
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.Properties.Resources.resources
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.csproj.GenerateResource.cache
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.exe
+C:\Users\Banhi\source\repos\LINQ\IntoductionLINQ\obj\Debug\IntoductionLINQ.pdb
