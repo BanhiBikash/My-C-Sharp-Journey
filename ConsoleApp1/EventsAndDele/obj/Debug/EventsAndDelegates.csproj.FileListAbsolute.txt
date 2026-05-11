@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\bin\Debug\EventsAndDele.exe.config
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\bin\Debug\EventsAndDele.exe
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\bin\Debug\EventsAndDele.pdb
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\obj\Debug\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\obj\Debug\EventsAndDele.exe
+C:\Users\Banhi\source\learning\ConsoleApp1\EventsAndDele\obj\Debug\EventsAndDele.pdb

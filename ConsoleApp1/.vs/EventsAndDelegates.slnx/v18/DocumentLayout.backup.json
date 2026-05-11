@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|c:\\users\\banhi\\source\\learning\\consoleapp1\\eventsanddele\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|solutionrelative:eventsanddele\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|c:\\users\\banhi\\source\\learning\\consoleapp1\\eventsanddele\\edges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|solutionrelative:eventsanddele\\edges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|c:\\users\\banhi\\source\\learning\\consoleapp1\\eventsanddele\\nails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9C15C0-6131-4E5B-A7D8-23580A35CCDC}|EventsAndDele\\EventsAndDelegates.csproj|solutionrelative:eventsanddele\\nails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edges.cs",
+              "DocumentMoniker": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Edges.cs",
+              "RelativeDocumentMoniker": "EventsAndDele\\Edges.cs",
+              "ToolTip": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Edges.cs",
+              "RelativeToolTip": "EventsAndDele\\Edges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:09:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nails.cs",
+              "DocumentMoniker": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Nails.cs",
+              "RelativeDocumentMoniker": "EventsAndDele\\Nails.cs",
+              "ToolTip": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Nails.cs",
+              "RelativeToolTip": "EventsAndDele\\Nails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:09:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hammer.cs",
+              "DocumentMoniker": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Hammer.cs",
+              "RelativeDocumentMoniker": "EventsAndDele\\Hammer.cs",
+              "ToolTip": "C:\\Users\\Banhi\\source\\learning\\ConsoleApp1\\EventsAndDele\\Hammer.cs",
+              "RelativeToolTip": "EventsAndDele\\Hammer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:54:09.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

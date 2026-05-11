@@ -19,8 +19,10 @@
       <Property Name="UseLegacyDebugEngines" Value="No" />
     </Properties>
   </Project>
+  <Project Path="AsyncProgram/AsyncProgram.csproj" Id="80cee3ea-aaf0-45a0-892b-7f5aa44defd6" />
   <Project Path="DependecyInjection1/DependecyInjection1.csproj" Id="cf2b9fa9-5610-4593-9298-e079882340f4" />
   <Project Path="DepenInjecSetter/DISetterMethod.csproj" Id="928c0346-c3d6-4143-ac58-e118a6a18ec9" />
+  <Project Path="Events&amp;DelegatesBasic/Events&amp;DelegatesBasic.csproj" Id="d4a00d1c-ce71-4b0d-b8b6-ef6874e0be73" />
   <Project Path="ExtensionMethod/ExtensionMethod.csproj" Id="0b8a9a5b-a6fc-458a-93b5-907e4eb10b11" />
   <Project Path="FindAreaInheritance/FindAreaInheritance.csproj" Id="cb787ad2-25d7-4203-af86-b0940955fd3e" />
   <Project Path="inheritance/inheritance.csproj" Id="cbe39958-f125-4808-94d7-dd815873febc" />

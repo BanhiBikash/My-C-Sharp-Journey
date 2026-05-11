@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\obj\Debug\AsyncProgram.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\obj\Debug\AsyncProgram.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\bin\Debug\AsyncProgram.exe.config
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\bin\Debug\AsyncProgram.exe
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\bin\Debug\AsyncProgram.pdb
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\obj\Debug\AsyncProgram.exe
+C:\Users\Banhi\source\repos\Learning\AsyncProgram\obj\Debug\AsyncProgram.pdb

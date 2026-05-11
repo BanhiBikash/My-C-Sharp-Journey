@@ -1,0 +1,7 @@
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\bin\Debug\Events&DelegatesBasic.exe.config
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\bin\Debug\Events&DelegatesBasic.exe
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\bin\Debug\Events&DelegatesBasic.pdb
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\obj\Debug\Events&DelegatesBasic.csproj.AssemblyReference.cache
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\obj\Debug\Events&DelegatesBasic.csproj.CoreCompileInputs.cache
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\obj\Debug\Events&DelegatesBasic.exe
+C:\Users\Banhi\source\repos\Learning\Events&DelegatesBasic\obj\Debug\Events&DelegatesBasic.pdb
